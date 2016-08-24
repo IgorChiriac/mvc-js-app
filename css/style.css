@@ -1,0 +1,41 @@
+#container {
+    width: 1200px;
+    margin: auto;
+}
+
+.block {
+    width: 300px;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial;
+    font-size: 18px;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.left {
+    float: left;
+}
+
+.left > div > span:first-child {
+    margin-right: 5px;
+}
+
+.left > div > span:last-child {
+    color: #d3d3d3;
+}
+
+.right {
+    float: right;
+}
+
+.right > div > span:first-child {
+    margin-right: 5px;
+}
+
+.right > div > span:last-child {
+    color: #d3d3d3;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}

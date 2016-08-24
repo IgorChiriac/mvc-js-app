@@ -1,0 +1,9 @@
+{
+    "title": "REVENUE",
+    "value":"200.000€",
+    "tablet_per": 60,
+    "tablet_value": 120000,
+    "smartphone_per":40,
+    "smartphone_value": 80000,
+    "color": ["#056909", "#60D63A"]
+}

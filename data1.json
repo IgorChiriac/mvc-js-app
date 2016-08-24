@@ -1,0 +1,9 @@
+{
+  "title": "IMPRESSIONS",
+  "value":"50.000.000",
+  "tablet_per": 40,
+  "tablet_value": 20000000,
+  "smartphone_per":60,
+  "smartphone_value": 30000000,
+  "color": ["#25CCE5", "#0D5365"]
+}

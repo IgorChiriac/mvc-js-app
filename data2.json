@@ -1,0 +1,9 @@
+{
+  "title": "VISITS",
+  "value":"200000 €",
+  "tablet_per": 80,
+  "tablet_value": 480000000,
+  "smartphone_per":20,
+  "smartphone_value": 120000000,
+  "color": ["#FFC42E", "#D35B2B"]
+}
