@@ -8,6 +8,6 @@ split the view component in smaller components for text and svg
 store the params for svg component in a config file
 
 *run the project
-run the http-server inside the marfeelApp
+run the http-server inside the mvc-js-app
 access http://localhost:8080/ for loading the app
 access http://localhost:8080/tests/SpecRunner.html for running the tests
